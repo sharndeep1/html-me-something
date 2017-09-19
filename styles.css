@@ -1,0 +1,15 @@
+.creative {
+    color:red;
+    font-family:cursive;
+}
+article{
+    margin:20px;
+}
+h1{
+    color:green;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:50px;
+}
+img{
+    padding-right:35px;
+}
